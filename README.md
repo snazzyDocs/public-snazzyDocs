@@ -1,1 +1,1 @@
-# public-snazzyDocs
+# Public repository for tracking issues
